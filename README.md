@@ -1,3 +1,7 @@
+> This is a luxfi-maintained fork of [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844); see [LUXFI-FORK.md](./LUXFI-FORK.md) for sync policy.
+
+---
+
 # C-KZG-4844
 
 A minimal implementation of the Polynomial Commitments API for
